@@ -1,8 +1,5 @@
 # CRUD com PHP orientado a objetos, PDO e MySQL
 
-<h1 align="center">
-  💻<br>Meu Portfólio
-</h1>
 
 <h4 align="center">
   CRUD criado com o intuito de mostrar meus conhecimentos adiquiridos em meus estudos.
