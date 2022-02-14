@@ -1,4 +1,4 @@
-# CRUD com PHP orientado a objetos, PDO e MySQL
+<h4 align="center"> # CRUD com PHP orientado a objetos, PDO e MySQL </h4>
 
 
 <h4 align="center">
