@@ -17,6 +17,6 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Bootstrap
 - JavaScript;
 - PHP;
-- Mysql
+- Mysql;
 
 ---
