@@ -5,7 +5,7 @@
   CRUD criado com o intuito de mostrar meus conhecimentos adiquiridos em meus estudos.
 </h4>
 
-![print](https://user-images.githubusercontent.com/95720726/151671718-47dcf248-04ff-40cc-8c62-aa0ef1c19025.png)
+![screencapture-localhost-crud2-2022-02-14-14_12_11](https://user-images.githubusercontent.com/95720726/153913723-3447b76f-70a9-4da9-bdab-0eeebc6d5d26.png)
 
 <h4 align="center"><a href="https://portfolio-psi-rose-26.vercel.app/">Clique para visitar o projeto</a></h4>
 
