@@ -20,18 +20,3 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Mysql
 
 ---
-
-## Autor<br>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/raulmoraiss47">
-        <img src="" width="100px;" alt="Foto do Raul Morais no GitHub"/><br>
-        <sub>
-          <b>Raul Morais</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
